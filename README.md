@@ -24,6 +24,6 @@ made a simple content-based recommendation system that takes a short description
 recommendations. The result or output of this sample query was
 
               title
-     Network
-     Singin' in the Rain
-     The Grapes of Wrath
+     1.Network
+     2.Singin' in the Rain
+     3.The Grapes of Wrath
